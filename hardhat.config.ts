@@ -3,7 +3,7 @@ import "@nomicfoundation/hardhat-toolbox"
 import "@parity/hardhat-polkadot"
 
 const config: HardhatUserConfig = {
-    solidity: "0.8.20",
+    solidity: "0.8.21",
     resolc: {
         compilerSource: "npm",
     },
