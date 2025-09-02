@@ -1,0 +1,21 @@
+{
+  "name": "spark-rewards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@parity/hardhat-polkadot": "^0.1.9",
+    "solc": "0.8.20"
+  },
+  "dependencies": {
+    "@nomicfoundation/solidity-analyzer-darwin-arm64": "^0.1.2"
+  }
+}
