@@ -11,10 +11,10 @@ const config: HardhatUserConfig = {
         hardhat: {
             polkavm: true,
             nodeConfig: {
-            nodeBinaryPath: "./bin/revive-dev-node",
-            dev: true,
-            consensus: {
-              seal: "instant-seal",
+                nodeBinaryPath: "./bin/revive-dev-node",
+                dev: true,
+                consensus: {
+                seal: "instant-seal",
             },
             rpcPort: 8000,
           },
@@ -22,7 +22,10 @@ const config: HardhatUserConfig = {
                 adapterBinaryPath: "./bin/eth-rpc",
                 dev: true,
             },
-        
+        },
+        localNode: {
+            polkavm: true,
+            url: `http://127.0.0.1:8545`,
         },
     },
 }

@@ -1,0 +1,146 @@
+{
+  "root": "0x03ef66938dc2a22deef58ca061377216d51a57b1103837a5be4b056d76c4014a",
+  "totalClaims": 12,
+  "values": [
+    {
+      "epoch": "3",
+      "account": "0x108d28b05716d9c7f2d04a5446c6da05a85c6fb2",
+      "token": "0xc01ee7f10ea4af4673cfff62710e1d7792aba8f3",
+      "cumulativeAmount": "1864760853488912643981312",
+      "proof": [
+        "0x9d5e81a3c5cc40f58ca025715757d11ccc16063597daaef1eafb07f6a15ebbf7",
+        "0x3d42cc05cdb2422f4dc9581f75f05ce6e1fb09393267b54bd1be9713aba04634",
+        "0x8ddaa48d4a6d9c725286a684e97196b041f1cd7865f85a6c49f0d4d5953006c8",
+        "0x3efd96f25ecfe835a0e427b40779068d58e80c45c27af89f5a74cef0f344fde6"
+      ]
+    },
+    {
+      "epoch": "3",
+      "account": "0x3653aa42ed2964f93b5a1647b2addfee6565a74f",
+      "token": "0xc01ee7f10ea4af4673cfff62710e1d7792aba8f3",
+      "cumulativeAmount": "7324878709257122839855104",
+      "proof": [
+        "0x3eee2ac4ccabd33c0fae4905d4f337e85b3862a55910d6be48d5faac28593cc2",
+        "0xa7d09723632fe0aeb42405f1ed598ed6d7a6dc5d939332f408138c565b5c5c30",
+        "0xc882e370239f979771692ffa7a6659b2aa6afa168471c538e6203dc3063319f4",
+        "0x3efd96f25ecfe835a0e427b40779068d58e80c45c27af89f5a74cef0f344fde6"
+      ]
+    },
+    {
+      "epoch": "2",
+      "account": "0xd488bf0b8e06352959b89d5ca857c17cc3e983dd",
+      "token": "0xc01ee7f10ea4af4673cfff62710e1d7792aba8f3",
+      "cumulativeAmount": "3016204583550199252713472",
+      "proof": [
+        "0xc13e8e676bf3f6f337e8211336cc3faf293f2a2e6af3834172501edfc60bcf57",
+        "0xab45e10b465f9431dad1f726899b56a7ca144413621ea0a685294496d0dd01a0",
+        "0x113c21974e4a0796f270b8592537458b2356986280a6c8564ca02c19bff6a552"
+      ]
+    },
+    {
+      "epoch": "4",
+      "account": "0x2f3a367a41ba71a551ce4c81da66c93938b9b211",
+      "token": "0x970951a12f975e6762482aca81e57d5a2a4e73f4",
+      "cumulativeAmount": "3905100697116222446174208",
+      "proof": [
+        "0xaa0c65871cb28b7186dee019bcf9148b8c956b2c36288f1688ff6a412750471a",
+        "0x7320d5278ff77afe7dec08466f72b691c87c030b8eb80cdd0d6bbf40ec73a2ba",
+        "0x8ddaa48d4a6d9c725286a684e97196b041f1cd7865f85a6c49f0d4d5953006c8",
+        "0x3efd96f25ecfe835a0e427b40779068d58e80c45c27af89f5a74cef0f344fde6"
+      ]
+    },
+    {
+      "epoch": "1",
+      "account": "0x8385f6c502d4bf24748f86b35414daf948542136",
+      "token": "0xc01ee7f10ea4af4673cfff62710e1d7792aba8f3",
+      "cumulativeAmount": "118923342218170854342656",
+      "proof": [
+        "0x421ab684193c303d81040303cdf5eff380d1932e73ee8b2ca699d6d89f8617eb",
+        "0xa7d09723632fe0aeb42405f1ed598ed6d7a6dc5d939332f408138c565b5c5c30",
+        "0xc882e370239f979771692ffa7a6659b2aa6afa168471c538e6203dc3063319f4",
+        "0x3efd96f25ecfe835a0e427b40779068d58e80c45c27af89f5a74cef0f344fde6"
+      ]
+    },
+    {
+      "epoch": "3",
+      "account": "0x1c678df34f241ed17187a06057bd3ce409fd1c1a",
+      "token": "0x970951a12f975e6762482aca81e57d5a2a4e73f4",
+      "cumulativeAmount": "5747660465230829049675776",
+      "proof": [
+        "0x85d2bcf2137feaf2e3a82ce7dfdcd33da0423c522320f7c48288f668fdc8970f",
+        "0x6ca9fcce578bc616b91e69735ff26a6d4fe6f2f57d8abea7a329ceb1f25b9db3",
+        "0xc882e370239f979771692ffa7a6659b2aa6afa168471c538e6203dc3063319f4",
+        "0x3efd96f25ecfe835a0e427b40779068d58e80c45c27af89f5a74cef0f344fde6"
+      ]
+    },
+    {
+      "epoch": "2",
+      "account": "0x9fc26b0ec89978b1031a2b7fd1752247a3327105",
+      "token": "0xc01ee7f10ea4af4673cfff62710e1d7792aba8f3",
+      "cumulativeAmount": "4160038280288351048237056",
+      "proof": [
+        "0xcc72a76426a9243e9e62eacd4d6a374d8cf76959f66d20f1a9b4605cdc401130",
+        "0xab45e10b465f9431dad1f726899b56a7ca144413621ea0a685294496d0dd01a0",
+        "0x113c21974e4a0796f270b8592537458b2356986280a6c8564ca02c19bff6a552"
+      ]
+    },
+    {
+      "epoch": "4",
+      "account": "0xf3924133b0156288da4028fb197ff16a3d05a4e9",
+      "token": "0xc01ee7f10ea4af4673cfff62710e1d7792aba8f3",
+      "cumulativeAmount": "6011782912010921065906176",
+      "proof": [
+        "0x92a7bd4116b90ab8198cd35ad43b468137ea34233cdad3a429bbc2754afb1536",
+        "0x6ca9fcce578bc616b91e69735ff26a6d4fe6f2f57d8abea7a329ceb1f25b9db3",
+        "0xc882e370239f979771692ffa7a6659b2aa6afa168471c538e6203dc3063319f4",
+        "0x3efd96f25ecfe835a0e427b40779068d58e80c45c27af89f5a74cef0f344fde6"
+      ]
+    },
+    {
+      "epoch": "3",
+      "account": "0xf9dcaf304ba9a0d32697dcf907d40d3a49ff1a75",
+      "token": "0x970951a12f975e6762482aca81e57d5a2a4e73f4",
+      "cumulativeAmount": "3012553244106154831839232",
+      "proof": [
+        "0x9f62a81599692b001939cdc7964426d4c55c46710e1517951999c890c830db10",
+        "0x3d42cc05cdb2422f4dc9581f75f05ce6e1fb09393267b54bd1be9713aba04634",
+        "0x8ddaa48d4a6d9c725286a684e97196b041f1cd7865f85a6c49f0d4d5953006c8",
+        "0x3efd96f25ecfe835a0e427b40779068d58e80c45c27af89f5a74cef0f344fde6"
+      ]
+    },
+    {
+      "epoch": "2",
+      "account": "0x46aa79735404e45af46e242323a3da44e0f0ea3e",
+      "token": "0x970951a12f975e6762482aca81e57d5a2a4e73f4",
+      "cumulativeAmount": "3048532990441962256531456",
+      "proof": [
+        "0xa0452a7a826f81a9502039dd1641137e0f3b3ece02dec8a7c4ea50973af9436a",
+        "0x7320d5278ff77afe7dec08466f72b691c87c030b8eb80cdd0d6bbf40ec73a2ba",
+        "0x8ddaa48d4a6d9c725286a684e97196b041f1cd7865f85a6c49f0d4d5953006c8",
+        "0x3efd96f25ecfe835a0e427b40779068d58e80c45c27af89f5a74cef0f344fde6"
+      ]
+    },
+    {
+      "epoch": "1",
+      "account": "0xbdddd968b52320c3244118882871a95f9a325ab3",
+      "token": "0x970951a12f975e6762482aca81e57d5a2a4e73f4",
+      "cumulativeAmount": "1702384959866911942836224",
+      "proof": [
+        "0xefe5bc8fd170c5991c731c5aca24e1757ae8fc455c0d7db66c0d7a2e351f10cd",
+        "0x86ddb3d82c39c1adb487166b1366977214f8c52df9f613bb644e597eaba89a27",
+        "0x113c21974e4a0796f270b8592537458b2356986280a6c8564ca02c19bff6a552"
+      ]
+    },
+    {
+      "epoch": "5",
+      "account": "0x7c7fe11c62f893dbe8f756e56cf35f0c82873f05",
+      "token": "0xc01ee7f10ea4af4673cfff62710e1d7792aba8f3",
+      "cumulativeAmount": "6493311575517460802109440",
+      "proof": [
+        "0xdb9960b54bc8213f582e0a17a5c37f313aa670847db125d6d6839ead4f3a70ec",
+        "0x86ddb3d82c39c1adb487166b1366977214f8c52df9f613bb644e597eaba89a27",
+        "0x113c21974e4a0796f270b8592537458b2356986280a6c8564ca02c19bff6a552"
+      ]
+    }
+  ]
+}

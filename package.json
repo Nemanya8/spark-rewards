@@ -16,6 +16,7 @@
     "solc": "0.8.21"
   },
   "dependencies": {
-    "@nomicfoundation/solidity-analyzer-darwin-arm64": "^0.1.2"
+    "@nomicfoundation/solidity-analyzer-darwin-arm64": "^0.1.2",
+    "@openzeppelin/merkle-tree": "^1.0.8"
   }
 }

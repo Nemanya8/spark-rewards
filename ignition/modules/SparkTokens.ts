@@ -1,6 +1,6 @@
 import { buildModule } from "@nomicfoundation/hardhat-ignition/modules";
 
-const SparkTokenAModule = buildModule("SparkTokenA", (m) => {
+const SparkTokensModule = buildModule("SparkTokens", (m) => {
   const owner = m.getAccount(0);
   
   const initialSupply = "1000000000000000000000000000";
@@ -11,25 +11,21 @@ const SparkTokenAModule = buildModule("SparkTokenA", (m) => {
     18,
     initialSupply,
     owner
-  ]);
-  
-  return { tokenA };
-});
-
-const SparkTokenBModule = buildModule("SparkTokenB", (m) => {
-  const owner = m.getAccount(0);
-  
-  const initialSupply = "1000000000000000000000000000";
+  ], {
+    id: "SparkTokenA_Deterministic"
+  });
   
   const tokenB = m.contract("SparkToken", [
-    "Spark Token B", 
+    "Spark Token B",
     "SPKB",
     18,
     initialSupply,
     owner
-  ]);
+  ], {
+    id: "SparkTokenB_Deterministic"
+  });
   
-  return { tokenB };
+  return { tokenA, tokenB };
 });
 
-export { SparkTokenAModule, SparkTokenBModule };
+export default SparkTokensModule;
