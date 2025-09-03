@@ -14,8 +14,8 @@ const config: HardhatUserConfig = {
                 nodeBinaryPath: "./bin/revive-dev-node",
                 dev: true,
                 consensus: {
-                seal: "instant-seal",
-            },
+                    seal: "instant-seal",
+                },
             rpcPort: 8000,
           },
             adapterConfig: {
